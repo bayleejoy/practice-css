@@ -1,6 +1,7 @@
 body {
-    background-color: orange;
+  background-color: blue;
+  font-family: sans-serif;
 }
-h1 {
+p {
   font-size: 30px;
 }
